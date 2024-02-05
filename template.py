@@ -1,5 +1,5 @@
 # This file will be used to create a template for the project
-# All files will be created using this template and will be modified accordingly
+# All directories and files will be created using this template
 
 import os
 from pathlib import Path
