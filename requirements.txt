@@ -1,0 +1,8 @@
+dill==0.3.5.1 
+from-root==1.0.2
+notebook==7.0.0a7
+gdown # for downloading files from google drive
+flask-cors # for flask cross origin authorization
+flask
+ultralytics # for yolov8 integration
+-e . # for setup.py

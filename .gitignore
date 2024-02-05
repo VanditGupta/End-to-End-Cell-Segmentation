@@ -6,6 +6,7 @@ __pycache__/
 
 # Virtual Environment
 venv/
+cellseg/
 env/
 env.bak/
 env1/
@@ -15,6 +16,7 @@ env2/
 # IDE
 .vscode/
 .idea/
+*.suo
 
 # Dependency directories
 lib/
@@ -155,3 +157,13 @@ cython_debug/
 
 # Ignore all .pyc files in all directories
 **/__pycache__/
+
+# Miscellaneous
+*.DS_Store
+*.pyc
+*.pyo
+*.bak
+*.swp
+*.tmp
+*.sublime-workspace
+*.sublime-project
